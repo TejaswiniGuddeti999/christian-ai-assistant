@@ -10,15 +10,15 @@ Built with GPT-4o, Streamlit, and bible-api.com as part of a take-home assignmen
 
 ## What it does
 
-- **Theology chat** — ask anything about Christianity and get a warm, pastoral response
-- **Scripture grounding** — every Bible verse is verified against a real Bible API before
+- **Theology chat** - ask anything about Christianity and get a warm, pastoral response
+- **Scripture grounding** - every Bible verse is verified against a real Bible API before
   being shown with a "verified" badge
-- **Image generation** — describe a Christian scene and gpt-image-1 generates the artwork
-- **Hallucination detection** — fake or wrong Bible references are caught and corrected
-- **Safety moderation** — adversarial prompts (rewriting scripture, hateful content) are
+- **Image generation** - describe a Christian scene and gpt-image-1 generates the artwork
+- **Hallucination detection** - fake or wrong Bible references are caught and corrected
+- **Safety moderation** - adversarial prompts (rewriting scripture, hateful content) are
   blocked at two layers
-- **Denomination awareness** — switch between General Christian, Catholic, Protestant,
-  Eastern Orthodox, and Evangelical — the assistant adjusts its responses accordingly
+- **Denomination awareness** - switch between General Christian, Catholic, Protestant,
+  Eastern Orthodox, and Evangelical - the assistant adjusts its responses accordingly
 
 ---
 
